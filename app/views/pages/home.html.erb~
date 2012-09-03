@@ -1,11 +1,4 @@
-<!DOCTYPE>
-<html>
-   <head>
-   <title>Ruby on Rails Tutorial Sample App | <%= @title %></title>
-   </head>
-<body>
+
 <h1>Sample App</h1>
 <p>This is the home page for the <a herf ="http://patmcguinness.org">Pat McGuinness sample app</a></p>
-</body>
-</html>
 
